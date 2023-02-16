@@ -1,4 +1,5 @@
 # 👨‍💻 Laboratory Coursework Repositories
+<img src="https://log.cyclic.app/log/GithubNekonoriReadme" alt="" />
 
 Hey there! 👋 This is where I store all the cool code I write for my lab work while studying Information Technology 🎓 at Anna University 🏫. I made this repository to help myself and other students reference the code we've written throughout the program.
 
