@@ -1,6 +1,6 @@
 # Laboratory Coursework Repositories
 
-This GitHub profile is a collection of repositories containing the code I write during my laboratory coursework as part of the undergraduate program in Information Technology at Anna University. The repository is intended to serve as a reference for myself and my fellow students.
+This GitHub profile is a collection of repositories containing the code I write during my laboratory coursework as part of the undergraduate program in Information Technology at Anna University. The is intended to serve as a reference for myself and my fellow students.
 
 ## Popular repos
 1. [Data Analytics Lab (IT5612)](https://github.com/nekonori/dataAnalyticsLab)
