@@ -2,7 +2,7 @@
 
 Hey there! 👋 This is where I store all the cool code I write for my lab work while studying Information Technology 🎓 at Anna University 🏫. I made this repository to help myself and other students reference the code we've written throughout the program.
 
-## Popular repos
+## Popular repos ✨
 1. [Data Analytics Lab (IT5612)](https://github.com/nekonori/dataAnalyticsLab)
 2. [Computer Networks Lab (IT5511)](https://github.com/nekonori/cnLab)
 3. [Web Technologies Lab (IT5512)](https://github.com/nekonori/webTechLab)
