@@ -1,6 +1,6 @@
-# Laboratory Coursework Repositories
+# 👨‍💻 Laboratory Coursework Repositories
 
-This GitHub profile is a collection of repositories containing the code I write during my laboratory coursework as part of the undergraduate program in Information Technology at Anna University. The is intended to serve as a reference for myself and my fellow students.
+Hey there! 👋 This is where I store all the cool code I write for my lab work while studying Information Technology 🎓 at Anna University 🏫. I made this repository to help myself and other students reference the code we've written throughout the program.
 
 ## Popular repos
 1. [Data Analytics Lab (IT5612)](https://github.com/nekonori/dataAnalyticsLab)
@@ -10,11 +10,10 @@ This GitHub profile is a collection of repositories containing the code I write 
 5. [Operating System Lab (IT5411)](https://github.com/nekonori/adsLab)
 
 ### More info
+Each repo in this profile represents a specific lab course or project 📁, and contains code files and relevant documentation 📝. The code is written in a variety of programming languages used in the coursework♾️
 
-Each repository in this profile corresponds a specific laboratory course or project, and contains the code files and any relevant documentation for that course. The code is written in a variety of programming languages used in the coursework and is intended to demonstrate the concepts covered in each laboratory course.
+Just a quick note 📝, though: please don't copy or submit this code as your own work😂! Use it as a reference to help you learn and complete your work on your own.
 
-Please note that this code is intended to be used as a reference only, and should not be copied or submitted as your own work. It is your responsibility to ensure that you understand the material and can complete the assignments on your own.
+Feel free to take a look around, download the code, and use it as a reference for your own work. If you have any questions or find any errors, feel free to reach out to me 🤙.
 
-Feel free to browse the repository, download the code, and use it as a reference for your own work. If you find any errors or have any questions, please feel free to contact me.
-
-Thank you for visiting my repository, and good luck with your laboratory coursework!
+Thanks for checking out my repository, and happy coding! 💻
